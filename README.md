@@ -94,8 +94,10 @@ Functional testing included registration, login, job posting, and messaging.
 
 7.1 Output Screenshots
 
- landing: ![Uploading Screenshot (133).png…]()
-
+ landing: <img width="1920" height="1080" alt="landing" src="https://github.com/user-attachments/assets/b0cf7680-be4d-4382-bd8d-3e510f1eb31d" />
+login: <img width="1920" height="1080" alt="login" src="https://github.com/user-attachments/assets/286f22eb-f22f-4427-96e5-595b1454d7e9" />
+home: <img width="1920" height="1080" alt="home" src="https://github.com/user-attachments/assets/7ae3f3fe-c3e8-469a-892e-8c71e9d5cad5" />
+projects: <img width="1920" height="1080" alt="projects" src="https://github.com/user-attachments/assets/84513414-3e9b-4f35-b71e-025bb2c52092" />
 
 9. ADVANTAGES & DISADVANTAGES
 
@@ -107,6 +109,7 @@ Secure transactions
 Builds trust with ratings
 
 Disadvantages:
+
 Internet dependency
 May need marketing to attract users
 Competitors in the market
