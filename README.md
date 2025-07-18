@@ -18,17 +18,25 @@ Finding reliable freelancers or suitable freelance opportunities is often time-c
 2.2 Empathy Map Canvas
 
 User: Freelancer or client
+
 Says: “I need a trusted platform,” “I want fair pay”
+
 Thinks: “Will I get quality work?” “Will I get paid on time?”
+
 Does: Browses jobs/projects, applies or posts jobs
+
 Feels: Frustrated with current platforms, hopeful for better solutions
 
 2.3 Brainstorming
 
 Integrated chat system
+
 Ratings & reviews
+
 Profile verification
+
 Secure payment gateway
+
 Easy job posting and filtering
 
 4. REQUIREMENT ANALYSIS
@@ -40,9 +48,13 @@ User lands on homepage → Signs up/logs in → Creates profile → Posts job/se
 3.2 Solution Requirement
 
 User authentication
+
 Project posting & bidding
+
 Communication features
+
 Admin dashboard
+
 Payment integration
 
 3.3 Data Flow Diagram
@@ -52,9 +64,13 @@ Payment integration
 3.4 Technology Stack
 
 Frontend: React.js
+
 Backend: Node.js with Express
+
 Database: MongoDB
+
 Authentication: Firebase/Auth0
+
 Hosting: Vercel or AWS
 
 5. PROJECT DESIGN
@@ -104,14 +120,19 @@ projects: <img width="1920" height="1080" alt="projects" src="https://github.com
 Advantages:
 
 Easy to use
+
 Transparent hiring process
+
 Secure transactions
+
 Builds trust with ratings
 
 Disadvantages:
 
 Internet dependency
+
 May need marketing to attract users
+
 Competitors in the market
 
 10. CONCLUSION
@@ -121,7 +142,11 @@ This freelance platform addresses the common pain points of both clients and fre
 11. FUTURE SCOPE
 
 Mobile app integration
+
 AI-based job suggestions
+
 Multilingual support
+
 Dispute management system
+
 Real-time chat with file sharing
